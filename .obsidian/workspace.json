@@ -135,9 +135,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "1b4cbdb747175af1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Snippets/tmux.md",
+    "Snippets/gnu stow.md",
+    "Snippets/Updating software.md",
+    "Snippets/Conda and Mamba commands.md",
+    "Snippets/Brew commands.md",
+    "Snippets/Generate jupyter config.md",
+    "Snippets/Generate Jupyter Password.md",
+    "Books/Books.md"
+  ]
 }
