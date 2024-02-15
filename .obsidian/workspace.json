@@ -61,14 +61,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/case_when pandas.md",
+                "file": "Snippets/gnu stow.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "306139135a327e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/pandas index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "193ddf7791a3d939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clipping data pandas.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/case_when pandas.md",
+                "file": "Clipping data pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/case_when pandas.md",
+                "file": "Clipping data pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/case_when pandas.md"
+                "file": "Clipping data pandas.md"
               }
             }
           }
@@ -197,10 +223,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "897302e0aeeb9a9f",
+  "active": "193ddf7791a3d939",
   "lastOpenFiles": [
-    "Snippets/Top N with remaining changed to \"other\".md",
+    "Snippets/pandas index.md",
+    "Clipping data pandas.md",
+    "Snippets/gnu stow.md",
     "Snippets/case_when pandas.md",
+    "Snippets/Top N with remaining changed to \"other\".md",
     "Snippets/Pandas apply numpy.md",
     "Snippets/EDA Pandas Profiling.md",
     "Snippets/Mean from a filter.md",
@@ -208,7 +237,6 @@
     "Snippets/Pick this or pick that.md",
     "Snippets/Conda and Mamba commands.md",
     "Snippets/tmux.md",
-    "Snippets/gnu stow.md",
     "Snippets/Updating software.md",
     "Snippets/Brew commands.md",
     "Snippets/Generate Jupyter Password.md",
