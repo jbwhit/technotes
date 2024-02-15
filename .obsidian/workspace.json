@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Clipping data pandas.md",
+                "file": "Snippets/gnu stow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Clipping data pandas.md",
+                "file": "Snippets/gnu stow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Clipping data pandas.md",
+                "file": "Snippets/gnu stow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Clipping data pandas.md"
+                "file": "Snippets/gnu stow.md"
               }
             }
           }
@@ -223,10 +223,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30fada468a3666ea",
+  "active": "193ddf7791a3d939",
   "lastOpenFiles": [
-    "Snippets/pandas index.md",
     "Snippets/Clipping data pandas.md",
+    "Snippets/pandas index.md",
     "Snippets/gnu stow.md",
     "Snippets/case_when pandas.md",
     "Snippets/Top N with remaining changed to \"other\".md",
