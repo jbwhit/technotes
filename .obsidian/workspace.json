@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clipping data pandas.md",
+                "file": "Snippets/Clipping data pandas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clipping data pandas.md",
+                "file": "Snippets/Clipping data pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clipping data pandas.md",
+                "file": "Snippets/Clipping data pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clipping data pandas.md"
+                "file": "Snippets/Clipping data pandas.md"
               }
             }
           }
@@ -223,10 +223,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "193ddf7791a3d939",
+  "active": "30fada468a3666ea",
   "lastOpenFiles": [
     "Snippets/pandas index.md",
-    "Clipping data pandas.md",
+    "Snippets/Clipping data pandas.md",
     "Snippets/gnu stow.md",
     "Snippets/case_when pandas.md",
     "Snippets/Top N with remaining changed to \"other\".md",
