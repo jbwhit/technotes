@@ -20,6 +20,32 @@
             }
           },
           {
+            "id": "436471d4e5ea8828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Select index `loc`.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5733ac0821ad52ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Choose this not that.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6042de3fea35e12d",
             "type": "leaf",
             "state": {
@@ -107,7 +133,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md",
+                "file": "Snippets/Choose this not that.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md",
+                "file": "Snippets/Choose this not that.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md"
+                "file": "Snippets/Choose this not that.md"
               }
             }
           }
@@ -236,8 +263,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62b7698534e34be3",
+  "active": "5733ac0821ad52ac",
   "lastOpenFiles": [
+    "Snippets/Compare two versions of same dataset ydata profiling.md",
+    "Snippets/Using a mask array in pandas.md",
+    "Snippets/Select index `loc`.md",
+    "Snippets/Top N with remaining changed to \"other\".md",
     "Snippets/Conda and Mamba commands.md",
     "Snippets/Bin data.md",
     "Snippets/Quantile.md",
@@ -246,7 +277,6 @@
     "Snippets/Clipping data pandas.md",
     "Snippets/pandas index.md",
     "Snippets/case_when pandas.md",
-    "Snippets/Top N with remaining changed to \"other\".md",
     "Snippets/Pandas apply numpy.md",
     "Snippets/EDA Pandas Profiling.md",
     "Snippets/Mean from a filter.md",
