@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b4cbdb747175af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Conda and Mamba commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62b7698534e34be3",
             "type": "leaf",
             "state": {
@@ -92,9 +80,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab12a10e884844d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Quantile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16dd88704e62d72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Bin data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/gnu stow.md",
+                "file": "Snippets/Top N with remaining changed to \"other\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/gnu stow.md",
+                "file": "Snippets/Top N with remaining changed to \"other\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/gnu stow.md"
+                "file": "Snippets/Top N with remaining changed to \"other\".md"
               }
             }
           }
@@ -223,11 +236,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "193ddf7791a3d939",
+  "active": "62b7698534e34be3",
   "lastOpenFiles": [
+    "Snippets/Conda and Mamba commands.md",
+    "Snippets/Bin data.md",
+    "Snippets/Quantile.md",
+    "Snippets/Choose this not that.md",
+    "Snippets/gnu stow.md",
     "Snippets/Clipping data pandas.md",
     "Snippets/pandas index.md",
-    "Snippets/gnu stow.md",
     "Snippets/case_when pandas.md",
     "Snippets/Top N with remaining changed to \"other\".md",
     "Snippets/Pandas apply numpy.md",
@@ -235,7 +252,6 @@
     "Snippets/Mean from a filter.md",
     "Snippets/Generate Jupyter config.md",
     "Snippets/Pick this or pick that.md",
-    "Snippets/Conda and Mamba commands.md",
     "Snippets/tmux.md",
     "Snippets/Updating software.md",
     "Snippets/Brew commands.md",

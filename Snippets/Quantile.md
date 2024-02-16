@@ -4,5 +4,5 @@ df.quantile([0.10, 0.25, 0.75]) # returns series
 
 ```
 
-- [ ] pd.qcut example
+See also [[Bin data]] for `pd.cut` and `pd.qcut`. 
 
