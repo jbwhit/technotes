@@ -46,6 +46,45 @@
             }
           },
           {
+            "id": "cffbfeb19c8b0fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/filter series method.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb487f229a234c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Check for weird data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12a5af6d824dd7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6042de3fea35e12d",
             "type": "leaf",
             "state": {
@@ -134,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Choose this not that.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Choose this not that.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Choose this not that.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -263,8 +302,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5733ac0821ad52ac",
+  "active": "12a5af6d824dd7a8",
   "lastOpenFiles": [
+    "Snippets/pandas read_csv.md",
+    "Snippets/pandas index.md",
+    "Snippets/Ordered categorical types.md",
+    "Snippets/Pandas apply numpy.md",
+    "README.md.md",
+    "Snippets/Check for weird data.md",
+    "Snippets/Choose this not that.md",
+    "Snippets/filter series method.md",
     "Snippets/Compare two versions of same dataset ydata profiling.md",
     "Snippets/Using a mask array in pandas.md",
     "Snippets/Select index `loc`.md",
@@ -272,12 +319,9 @@
     "Snippets/Conda and Mamba commands.md",
     "Snippets/Bin data.md",
     "Snippets/Quantile.md",
-    "Snippets/Choose this not that.md",
     "Snippets/gnu stow.md",
     "Snippets/Clipping data pandas.md",
-    "Snippets/pandas index.md",
     "Snippets/case_when pandas.md",
-    "Snippets/Pandas apply numpy.md",
     "Snippets/EDA Pandas Profiling.md",
     "Snippets/Mean from a filter.md",
     "Snippets/Generate Jupyter config.md",
@@ -285,7 +329,6 @@
     "Snippets/tmux.md",
     "Snippets/Updating software.md",
     "Snippets/Brew commands.md",
-    "Snippets/Generate Jupyter Password.md",
-    "Books/Books.md"
+    "Snippets/Generate Jupyter Password.md"
   ]
 }
