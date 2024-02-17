@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -305,10 +305,10 @@
   "active": "12a5af6d824dd7a8",
   "lastOpenFiles": [
     "Snippets/pandas read_csv.md",
+    "README.md",
     "Snippets/pandas index.md",
     "Snippets/Ordered categorical types.md",
     "Snippets/Pandas apply numpy.md",
-    "README.md.md",
     "Snippets/Check for weird data.md",
     "Snippets/Choose this not that.md",
     "Snippets/filter series method.md",
