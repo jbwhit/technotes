@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/animated gifs.md",
+                "file": "Snippets/Bin data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/animated gifs.md",
+                "file": "Snippets/Bin data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/animated gifs.md",
+                "file": "Snippets/Bin data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/animated gifs.md"
+                "file": "Snippets/Bin data.md"
               }
             }
           }
