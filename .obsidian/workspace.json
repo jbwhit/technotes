@@ -15,6 +15,7 @@
               "state": {
                 "file": "Snippets/Top N with remaining changed to \"other\".md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -105,6 +106,7 @@
               "state": {
                 "file": "Snippets/EDA Pandas Profiling.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -117,6 +119,7 @@
               "state": {
                 "file": "Snippets/Pandas apply numpy.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -129,6 +132,7 @@
               "state": {
                 "file": "Snippets/gnu stow.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -252,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Bin data.md",
+                "file": "Snippets/Top N with remaining changed to \"other\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Bin data.md",
+                "file": "Snippets/Top N with remaining changed to \"other\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Bin data.md"
+                "file": "Snippets/Top N with remaining changed to \"other\".md"
               }
             }
           }
