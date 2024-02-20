@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62b7698534e34be3",
+            "id": "358d899abd147b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md",
+                "file": "Snippets/git config things.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "436471d4e5ea8828",
+            "id": "9cd8784003244423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Select index `loc`.md",
+                "file": "Snippets/git worktrees.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5733ac0821ad52ac",
+            "id": "a94092d1d01c38ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Choose this not that.md",
+                "file": "Snippets/Pick this or pick that.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,142 +47,12 @@
             }
           },
           {
-            "id": "cffbfeb19c8b0fe5",
+            "id": "97efce9f4c331f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/filter series method.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb487f229a234c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Check for weird data.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12a5af6d824dd7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71d1b623a73ffc83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Bin data.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6042de3fea35e12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/EDA Pandas Profiling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5152d55409b98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Pandas apply numpy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "897302e0aeeb9a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/gnu stow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "306139135a327e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/pandas index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "193ddf7791a3d939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/gnu stow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab12a10e884844d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Quantile.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16dd88704e62d72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Bin data.md",
+                "file": "Snippets/Pull request.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -190,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md",
+                "file": "Snippets/git worktrees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md",
+                "file": "Snippets/git worktrees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Top N with remaining changed to \"other\".md"
+                "file": "Snippets/git worktrees.md"
               }
             }
           }
@@ -319,33 +189,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30fada468a3666ea",
+  "active": "9cd8784003244423",
   "lastOpenFiles": [
-    "README.md",
-    "Snippets/animated gifs.md",
-    "Snippets/pandas read_csv.md",
-    "Snippets/pandas index.md",
-    "Snippets/Ordered categorical types.md",
-    "Snippets/Pandas apply numpy.md",
-    "Snippets/Check for weird data.md",
-    "Snippets/Choose this not that.md",
-    "Snippets/filter series method.md",
-    "Snippets/Compare two versions of same dataset ydata profiling.md",
-    "Snippets/Using a mask array in pandas.md",
-    "Snippets/Select index `loc`.md",
-    "Snippets/Top N with remaining changed to \"other\".md",
-    "Snippets/Conda and Mamba commands.md",
+    "Snippets/git config things.md",
+    "Snippets/git worktrees.md",
+    "Snippets/git push force.md",
+    "Snippets/git word level diff.md",
+    "Snippets/git blame.md",
+    "Snippets/Conditional config for git.md",
     "Snippets/Bin data.md",
     "Snippets/Quantile.md",
     "Snippets/gnu stow.md",
-    "Snippets/Clipping data pandas.md",
-    "Snippets/case_when pandas.md",
+    "Snippets/pandas index.md",
+    "Snippets/Pandas apply numpy.md",
     "Snippets/EDA Pandas Profiling.md",
-    "Snippets/Mean from a filter.md",
-    "Snippets/Generate Jupyter config.md",
+    "README.md",
+    "Snippets/Check for weird data.md",
+    "Snippets/Pull request.md",
     "Snippets/Pick this or pick that.md",
-    "Snippets/tmux.md",
-    "Snippets/Updating software.md",
-    "Snippets/Brew commands.md"
+    "Snippets/Big git repo.md",
+    "Snippets/gpg sign commits ssh.md",
+    "Snippets/Top N with remaining changed to \"other\".md",
+    "Snippets/animated gifs.md",
+    "Snippets/pandas read_csv.md",
+    "Snippets/Ordered categorical types.md",
+    "Snippets/Choose this not that.md",
+    "Snippets/filter series method.md",
+    "Snippets/Compare two versions of same dataset ydata profiling.md",
+    "Snippets/Using a mask array in pandas.md"
   ]
 }
