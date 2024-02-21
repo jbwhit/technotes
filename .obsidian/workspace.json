@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/zip codes are not integers.md",
+                "file": "Snippets/git config things.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/zip codes are not integers.md",
+                "file": "Snippets/git config things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/zip codes are not integers.md",
+                "file": "Snippets/git config things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/zip codes are not integers.md"
+                "file": "Snippets/git config things.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "9cd8784003244423",
   "lastOpenFiles": [
+    "Snippets/zip codes are not integers.md",
     "Snippets/Timestamps.md",
     "Snippets/Quantile.md",
     "Snippets/pandas index.md",
@@ -215,7 +216,6 @@
     "Snippets/Check for weird data.md",
     "Snippets/Pick this or pick that.md",
     "Snippets/Big git repo.md",
-    "Snippets/Top N with remaining changed to \"other\".md",
-    "Snippets/animated gifs.md"
+    "Snippets/Top N with remaining changed to \"other\".md"
   ]
 }
