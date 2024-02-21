@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/git worktrees.md",
+                "file": "Snippets/zip codes are not integers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/git worktrees.md",
+                "file": "Snippets/zip codes are not integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/git worktrees.md",
+                "file": "Snippets/zip codes are not integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/git worktrees.md"
+                "file": "Snippets/zip codes are not integers.md"
               }
             }
           }
@@ -191,31 +191,31 @@
   },
   "active": "9cd8784003244423",
   "lastOpenFiles": [
-    "Snippets/git config things.md",
+    "Snippets/Timestamps.md",
+    "Snippets/Quantile.md",
+    "Snippets/pandas index.md",
+    "Snippets/Na NaNs in numpy or pandas.md",
+    "Snippets/Mean from a filter.md",
+    "Snippets/gpg sign commits ssh.md",
+    "Snippets/Jupyter Imports.md",
+    "Snippets/gnu stow.md",
     "Snippets/git worktrees.md",
-    "Snippets/git push force.md",
     "Snippets/git word level diff.md",
+    "Snippets/git push force.md",
+    "Snippets/git config things.md",
     "Snippets/git blame.md",
+    "Snippets/Pull request.md",
+    "Snippets/filter series method.md",
+    "Snippets/List running jupyter servers.md",
     "Snippets/Conditional config for git.md",
     "Snippets/Bin data.md",
-    "Snippets/Quantile.md",
-    "Snippets/gnu stow.md",
-    "Snippets/pandas index.md",
     "Snippets/Pandas apply numpy.md",
     "Snippets/EDA Pandas Profiling.md",
     "README.md",
     "Snippets/Check for weird data.md",
-    "Snippets/Pull request.md",
     "Snippets/Pick this or pick that.md",
     "Snippets/Big git repo.md",
-    "Snippets/gpg sign commits ssh.md",
     "Snippets/Top N with remaining changed to \"other\".md",
-    "Snippets/animated gifs.md",
-    "Snippets/pandas read_csv.md",
-    "Snippets/Ordered categorical types.md",
-    "Snippets/Choose this not that.md",
-    "Snippets/filter series method.md",
-    "Snippets/Compare two versions of same dataset ydata profiling.md",
-    "Snippets/Using a mask array in pandas.md"
+    "Snippets/animated gifs.md"
   ]
 }
