@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alias ideas.md",
+                "file": "posts/Alias ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alias ideas.md",
+                "file": "posts/Alias ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alias ideas.md",
+                "file": "posts/Alias ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alias ideas.md"
+                "file": "posts/Alias ideas.md"
               }
             }
           }
@@ -204,9 +204,9 @@
   },
   "active": "09866b943f723c86",
   "lastOpenFiles": [
-    "posts/Effective Pandas 2 -- Feedback for Matt.md",
-    "Alias ideas.md",
     "posts/Configure Git Thoughts.md",
+    "posts/Alias ideas.md",
+    "posts/Effective Pandas 2 -- Feedback for Matt.md",
     "posts/Questions to answer.md",
     "posts/Effective Pandas 2 -- Notes.md",
     "posts/Books -- Index.md",
