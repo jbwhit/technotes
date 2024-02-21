@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/git config things.md",
+                "file": "posts/Configure Git Thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions to answer.md",
+                "file": "posts/Effective Pandas 2 -- Feedback for Matt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09866b943f723c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alias ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Pick this or pick that.md",
+                "file": "snippets/Pick this or pick that.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Pull request.md",
+                "file": "snippets/Pull request.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions to answer.md",
+                "file": "Alias ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions to answer.md",
+                "file": "Alias ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions to answer.md"
+                "file": "Alias ideas.md"
               }
             }
           }
@@ -189,33 +202,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cd8784003244423",
+  "active": "09866b943f723c86",
   "lastOpenFiles": [
-    "Books/Books -- Index.md",
-    "Snippets/git config things.md",
-    "Snippets/zip codes are not integers.md",
-    "Snippets/Timestamps.md",
-    "Snippets/Quantile.md",
-    "Snippets/pandas index.md",
-    "Snippets/Na NaNs in numpy or pandas.md",
-    "Snippets/Mean from a filter.md",
-    "Snippets/gpg sign commits ssh.md",
-    "Snippets/Jupyter Imports.md",
-    "Snippets/gnu stow.md",
-    "Snippets/git worktrees.md",
-    "Snippets/git word level diff.md",
-    "Snippets/git push force.md",
-    "Snippets/git blame.md",
-    "Snippets/Pull request.md",
-    "Snippets/filter series method.md",
-    "Snippets/List running jupyter servers.md",
-    "Snippets/Conditional config for git.md",
-    "Snippets/Bin data.md",
-    "Snippets/Pandas apply numpy.md",
-    "Snippets/EDA Pandas Profiling.md",
-    "README.md",
-    "Snippets/Check for weird data.md",
-    "Snippets/Pick this or pick that.md",
-    "Snippets/Big git repo.md"
+    "posts/Effective Pandas 2 -- Feedback for Matt.md",
+    "Alias ideas.md",
+    "posts/Configure Git Thoughts.md",
+    "posts/Questions to answer.md",
+    "posts/Effective Pandas 2 -- Notes.md",
+    "posts/Books -- Index.md",
+    "snippets/zip codes are not integers.md",
+    "snippets/Timestamps.md",
+    "snippets/Quantile.md",
+    "snippets/pandas index.md",
+    "snippets/Na NaNs in numpy or pandas.md",
+    "snippets/Mean from a filter.md",
+    "snippets/gpg sign commits ssh.md",
+    "snippets/Jupyter Imports.md",
+    "snippets/gnu stow.md",
+    "snippets/git worktrees.md",
+    "snippets/git word level diff.md",
+    "snippets/git push force.md",
+    "snippets/git blame.md",
+    "snippets/Pull request.md",
+    "snippets/filter series method.md",
+    "snippets/List running jupyter servers.md",
+    "snippets/Conditional config for git.md",
+    "snippets/Bin data.md",
+    "snippets/Pandas apply numpy.md",
+    "snippets/EDA Pandas Profiling.md"
   ]
 }
