@@ -11,8 +11,13 @@
             "id": "9cd8784003244423",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "snippets/Quick hbar bar chart.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -32,16 +37,26 @@
             "id": "a94092d1d01c38ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "snippets/Pick this or pick that.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
             "id": "97efce9f4c331f33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "snippets/Pull request.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valu plot",
+                "query": "concat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "snippets/Quick hbar bar chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "snippets/Quick hbar bar chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "snippets/Quick hbar bar chart.md"
+              }
             }
           }
         ]
@@ -165,10 +184,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9cd8784003244423",
+  "active": "bb151100b9196905",
   "lastOpenFiles": [
     "snippets/Check for weird data.md",
     "snippets/Choose this not that.md",
