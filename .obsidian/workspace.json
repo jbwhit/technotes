@@ -8,40 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cd8784003244423",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "09866b943f723c86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Alias ideas.md",
+                "file": "Snippets/Choose this not that.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a94092d1d01c38ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "97efce9f4c331f33",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -73,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valu plot",
+                "query": "value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snippets/Choose this not that.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Snippets/Choose this not that.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Snippets/Choose this not that.md"
+              }
             }
           }
         ]
@@ -165,22 +144,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cd8784003244423",
+  "active": "09866b943f723c86",
   "lastOpenFiles": [
+    "Snippets/Compare two versions of same dataset ydata profiling.md",
+    "Snippets/gnu stow.md",
+    "Snippets/Choose this not that.md",
+    "Snippets/animated gifs.md",
+    "posts/Effective Pandas 2 -- Notes.md",
+    "posts/Effective Pandas 2 -- Feedback for Matt.md",
+    "posts/Questions to answer.md",
+    "posts/Configure Git Thoughts.md",
+    "posts/Books -- Index.md",
+    "posts/Alias ideas.md",
+    "Snippets/Check for weird data.md",
     "snippets/Check for weird data.md",
     "snippets/Choose this not that.md",
     "snippets/Conda and Mamba commands.md",
-    "posts/Effective Pandas 2 -- Feedback for Matt.md",
-    "posts/Configure Git Thoughts.md",
-    "posts/Alias ideas.md",
     "notes/dailies",
     "notes",
-    "posts/Questions to answer.md",
-    "posts/Effective Pandas 2 -- Notes.md",
-    "posts/Books -- Index.md",
     "snippets/zip codes are not integers.md",
     "snippets/Timestamps.md",
     "snippets/Quantile.md",
@@ -192,11 +178,6 @@
     "snippets/gnu stow.md",
     "snippets/git worktrees.md",
     "snippets/git word level diff.md",
-    "snippets/git push force.md",
-    "snippets/git blame.md",
-    "snippets/Pull request.md",
-    "snippets/filter series method.md",
-    "snippets/List running jupyter servers.md",
-    "snippets/Conditional config for git.md"
+    "snippets/git push force.md"
   ]
 }

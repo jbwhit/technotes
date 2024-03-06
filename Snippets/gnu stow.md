@@ -1,6 +1,7 @@
 
-Excellent YouTube video by DevInsideYou [here](https://www.youtube.com/watch?v=CFzEuBGPPPg). 
-[System Crafters](https://www.youtube.com/watch?v=CxAT1u8G7is) 
+Excellent YouTube videos
+- by DevInsideYou [here](https://www.youtube.com/watch?v=CFzEuBGPPPg). 
+- [System Crafters](https://www.youtube.com/watch?v=CxAT1u8G7is) 
 
 
 ```bash
