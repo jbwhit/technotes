@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f2043b34994f28",
+        "id": "90ba777b222c0d04",
         "type": "tabs",
         "children": [
           {
-            "id": "09866b943f723c86",
+            "id": "9698dbd27e1e6a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Choose this not that.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18c3a284954f04af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/animated gifs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8cb0c4fa95b3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/EDA Pandas Profiling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a551c91fbbe6c76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Clipping data pandas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af807ad5efd630f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Set up Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "value",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Choose this not that.md",
+                "file": "Snippets/Set up Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Choose this not that.md",
+                "file": "Snippets/Set up Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Choose this not that.md"
+                "file": "Snippets/Set up Obsidian.md"
               }
             }
           }
@@ -149,35 +202,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09866b943f723c86",
+  "active": "af807ad5efd630f9",
   "lastOpenFiles": [
+    "Snippets/Clipping data pandas.md",
+    "Snippets/Set up Obsidian.md",
+    "conflict-files-obsidian-git.md",
+    "Snippets/EDA Pandas Profiling.md",
     "Snippets/Compare two versions of same dataset ydata profiling.md",
-    "Snippets/gnu stow.md",
-    "Snippets/Choose this not that.md",
+    "Snippets/Bin data.md",
+    "Snippets/Big git repo.md",
+    "Snippets/gpg sign commits ssh.md",
+    "Snippets/git worktrees.md",
+    "Snippets/git word level diff.md",
+    "Snippets/git push force.md",
+    "Snippets/git blame.md",
+    "posts/Configure Git Thoughts.md",
     "Snippets/animated gifs.md",
+    "README.md",
+    "Snippets/zip codes are not integers.md",
+    "Snippets/Choose this not that.md",
+    "Snippets/gnu stow.md",
     "posts/Effective Pandas 2 -- Notes.md",
     "posts/Effective Pandas 2 -- Feedback for Matt.md",
     "posts/Questions to answer.md",
-    "posts/Configure Git Thoughts.md",
     "posts/Books -- Index.md",
     "posts/Alias ideas.md",
     "Snippets/Check for weird data.md",
     "snippets/Check for weird data.md",
     "snippets/Choose this not that.md",
-    "snippets/Conda and Mamba commands.md",
     "notes/dailies",
-    "notes",
-    "snippets/zip codes are not integers.md",
-    "snippets/Timestamps.md",
-    "snippets/Quantile.md",
-    "snippets/pandas index.md",
-    "snippets/Na NaNs in numpy or pandas.md",
-    "snippets/Mean from a filter.md",
-    "snippets/gpg sign commits ssh.md",
-    "snippets/Jupyter Imports.md",
-    "snippets/gnu stow.md",
-    "snippets/git worktrees.md",
-    "snippets/git word level diff.md",
-    "snippets/git push force.md"
+    "notes"
   ]
 }
