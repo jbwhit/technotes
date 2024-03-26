@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f05543d91a41d6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Set up Obsidian.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Set up Obsidian.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Set up Obsidian.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -202,10 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af807ad5efd630f9",
+  "active": "f05543d91a41d6ee",
   "lastOpenFiles": [
-    "Snippets/Clipping data pandas.md",
+    "Kalman Filters.md",
     "Snippets/Set up Obsidian.md",
+    "Snippets/Clipping data pandas.md",
     "conflict-files-obsidian-git.md",
     "Snippets/EDA Pandas Profiling.md",
     "Snippets/Compare two versions of same dataset ydata profiling.md",
@@ -229,7 +243,6 @@
     "posts/Alias ideas.md",
     "Snippets/Check for weird data.md",
     "snippets/Check for weird data.md",
-    "snippets/Choose this not that.md",
     "notes/dailies",
     "notes"
   ]
