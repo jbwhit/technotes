@@ -11,4 +11,4 @@ df = pd.read_csv(
 
 - [ ] unnamed column index=False 
 
-
+recommend doing date stuff outside of read_csv. 
