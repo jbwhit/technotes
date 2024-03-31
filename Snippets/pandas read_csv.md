@@ -9,6 +9,6 @@ df = pd.read_csv(
 ```
 
 
-- [ ] unnamed column index=False 
+- [ ] unnamed column index=False; also `index_col=0` to recover from error.
 
 recommend doing date stuff outside of read_csv. 
