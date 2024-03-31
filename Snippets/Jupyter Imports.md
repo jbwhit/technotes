@@ -27,6 +27,9 @@ from pandas.plotting import register_matplotlib_converters
 from scipy.stats import norm
 from ydata_profiling import ProfileReport
 
+from sklearn import set_config
+set_config(transform_output='pandas')
+
 register_matplotlib_converters()
 sns.set()
 sns.set_context("notebook")
