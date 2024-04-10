@@ -3,7 +3,11 @@ Excellent YouTube videos
 - by DevInsideYou [here](https://www.youtube.com/watch?v=CFzEuBGPPPg). 
 - [System Crafters](https://www.youtube.com/watch?v=CxAT1u8G7is) 
 
-
+```bash
+watch --color --no-title --interval 1 eza --header --tree --level=3 --color=always --icons
+```
+ 
+ 
 ```bash
 # create link 
 # -n "don't run"
@@ -78,3 +82,4 @@ unstow() {
 }
 
 ```
+
