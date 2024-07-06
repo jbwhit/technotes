@@ -16,3 +16,4 @@ Wasn't enough, https://github.com/fastai/nbdev/issues/1033 suggests putting CNAM
 
 Trying that next. 
 
+That fixed it. 
