@@ -11,10 +11,10 @@
 	4. How to split your dataset?
 	5. How to deal with imbalances?
 3. Talk about
-	4. Modeling
-	5. Metrics
-	6. Training
-	7. Overfitting and other issues (cold start)
+	1. Modeling
+	2. Metrics
+	3. Training
+	4. Overfitting and other issues (cold start)
 4. (Give two options with tradeoffs and make a strong recommendation for one of them)
 
 Harmful content?
