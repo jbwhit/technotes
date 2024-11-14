@@ -5,3 +5,8 @@
 Hide Muted Channels
 
 Notification settings
+
+Can mute project/groups of channels
+
+Create thread (right side of message). 
+
