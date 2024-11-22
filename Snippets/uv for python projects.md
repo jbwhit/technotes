@@ -1,16 +1,26 @@
 
 ```zsh
+#!/usr/bin/env zsh
+
+# Generate repository name with current date
+REPO_NAME="practice_$(date '+%Y-%m-%d')"
+
+# Ensure GitHub token is not active for repo creation
 unset GITHUB_TOKEN
-gh repo create practice_2024-11-22 --private --clone
 
+# Create and clone private GitHub repository
+echo "Creating repository: $REPO_NAME"
+gh repo create "$REPO_NAME" --private --clone
 
-cd practice_2024-11-22
+# Navigate to repository directory
+cd "$REPO_NAME" || exit 1
+
 # Update uv to latest version
 uv self update
 
 # Initialize new virtual environment
 uv init aucvenv
-cd aucvenv
+cd aucvenv || exit 1
 
 # Install Jupyter-related packages
 uv add jupyter jupyterlab notebook nbclassic
