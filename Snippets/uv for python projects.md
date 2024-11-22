@@ -45,4 +45,5 @@ uv run --with jupyter jupyter lab
 ```
 
 
-- [ ] is there a way to prune kernels so that they don't 
+- [ ] is there a way to prune kernels so that they don't start to overflow? 
+- [ ] Can I go from the pyproject.toml file to an update nbdev thing? 
