@@ -43,3 +43,6 @@ uv run ipython kernel install --user --name=aucenv
 # Launch Jupyter Lab
 uv run --with jupyter jupyter lab
 ```
+
+
+- [ ] is there a way to prune kernels so that they don't 
