@@ -19,7 +19,7 @@ cd "$REPO_NAME" || exit 1
 uv self update
 
 # Initialize new virtual environment
-uv init aucvenv
+uv init --python 3.12 aucvenv
 cd aucvenv || exit 1
 
 # Install Jupyter-related packages
