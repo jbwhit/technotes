@@ -34,8 +34,16 @@ register_matplotlib_converters()
 sns.set()
 sns.set_context("notebook")
 plt.rcParams["figure.figsize"] = 10, 6
-pd.options.display.max_columns = None
-pd.options.display.max_rows = None
+
+# To see all columns (don't truncate wide DataFrames)
+pd.set_option('display.max_columns', None) 
+# To see all rows (don't truncate long DataFrames) 
+pd.set_option('display.max_rows', None) 
+
+# To reset to default settings if needed pd.reset_option('display.max_columns') 
+pd.reset_option('display.max_rows') # You can also set the width of the display 
+pd.set_option('display.width', None)
+
 pd.options.display.precision = 4
 warnings.simplefilter(action="ignore", category=FutureWarning)
 
