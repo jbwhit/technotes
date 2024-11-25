@@ -95,5 +95,21 @@ Use commit hooks to enforce proper user identity.
 
 Create a `.git/hooks/commit-msg` hook:
 
-```ash
+```bash
+#!/bin/bash
+# Example enforcement script
+commit_author=$(git config user.name)
+commit_email=$(git config user.email)
+
+if [[ "$commit_email" != *"@company.com" ]]; then
+    echo "Error: Commits must use a company email."
+    exit 1
+fi
 ```
+
+executable
+
+```bash
+chmod +x .git/hooks/commit-msg
+```
+
