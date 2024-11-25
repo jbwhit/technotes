@@ -40,5 +40,41 @@ Use `includeIf` to apply configurations based on directory:
 
 [includeIf "gitdir:~/personal/"]
     path = ~/.gitconfig-personal
+```
+
+Then create separate config files for work and personal:
+
+```bash
+# ~/.gitconfig-work
+[user]
+    name = Work Name
+    email = work@example.com
+    signingKey = ABCDEF1234567890
+
+# ~/.gitconfig-personal
+[user]
+    name = Personal Name
+    email = personal@example.com
+    signingKey = 0987654321FEDCBA
 
 ```
+
+Repositories in `~/work/` or `~/personal/` will automatically use these settings.
+
+### Enforcing GPG-Signed Commits
+
+Add a signing key to your Git config:
+
+```bash
+# ~/.gitconfig
+[user]
+    signingKey = ABCDEF1234567890
+[commit]
+    gpgSign = true
+
+```
+
+
+Verify commits with GPG:
+
+1. Generate a GPG key:
