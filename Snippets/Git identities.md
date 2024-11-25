@@ -78,3 +78,22 @@ Add a signing key to your Git config:
 Verify commits with GPG:
 
 1. Generate a GPG key:
+
+```bash
+gpg --full-generate-key
+```
+  2. Export the public key to share with teammates:
+```bash
+gpg --export --armor ABCDEF1234567890 > publickey.asc
+```
+  3. Add the key to your Git hosting service (e.g., GitHub, GitLab).
+To require signed commits, add a `pre-receive` or `commit-msg` hook.
+
+## ### **Enforcing Trust in Commit Metadata**
+
+Use commit hooks to enforce proper user identity.
+
+Create a `.git/hooks/commit-msg` hook:
+
+```ash
+```
