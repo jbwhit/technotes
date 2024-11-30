@@ -50,3 +50,36 @@ uv run --with jupyter jupyter nbclassic
 
 - [ ] is there a way to prune kernels so that they don't start to overflow? 
 - [ ] Can I go from the pyproject.toml file to an update nbdev thing? 
+
+```bash
+#!/bin/bash
+
+# Usage: ./setup_uv_project.sh <project_name>
+PROJECT_NAME=$1
+
+if [ -z "$PROJECT_NAME" ]; then
+    echo "Please provide a project name"
+    echo "Usage: ./setup_uv_project.sh <project_name>"
+    exit 1
+fi
+
+# 1. Create and set up virtual environment with Python 3.12
+rm -rf $PROJECT_NAME/.venv
+uv venv --python 3.12 $PROJECT_NAME/.venv
+
+# 2. Activate the virtual environment
+source $PROJECT_NAME/.venv/bin/activate
+
+# 3. Install the project in editable mode
+uv pip --project $PROJECT_NAME install -e $PROJECT_NAME
+
+# 4. Set up Jupyter kernel and start notebook
+uv run ipython kernel install --user --name=$PROJECT_NAME
+uv run --with jupyter jupyter nbclassic
+```
+
+```bash
+chmod +x setup_uv_project.sh
+./setup_uv_project.sh myproject
+```
+
