@@ -1,3 +1,7 @@
+```zsh
+uv tool update-shell
+```
+
 
 ```zsh
 #!/usr/bin/env zsh
