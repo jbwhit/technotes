@@ -15,7 +15,7 @@ top10 = df.value_counts().index[:10]
 (df
 	.where(df.isin(top10), 'Other')
 	.value_counts()
-	.plot_barh()	
+	.plot_barh()
 )
 ```
 
