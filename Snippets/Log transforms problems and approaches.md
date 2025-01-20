@@ -1,11 +1,11 @@
 
 the paper Logs with Zeros? Some Problems and Solutions [https://doi.org/10.1093/qje/qjad054](https://doi.org/10.1093/qje/qjad054) 
 
+ATE -- Average Treatment Effect
+
 Argue that `log(1 + y)` is a bad approach: 
 
 > We argue that ATEs for log-like transformations should not be interpreted as approximating percentage effects, since unlike a percentage, they depend on the units of the outcome. In fact, we show that if the treatment affects the extensive margin, one can obtain a treatment effect of any magnitude simply by rescaling the units of _Y_ before taking the log-like transformation.
-
-ATE -- Average Treatment Effect
 
 They propose three ways of dealing with this problem: 
 
