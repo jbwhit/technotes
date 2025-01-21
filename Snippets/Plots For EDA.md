@@ -28,10 +28,16 @@ def numerical_summary(df, column):
 	# Plot
 	diamonds = sns.load_dataset("diamonds")
 	clarity_ranking = ["I1", "SI2", "SI1", "VS2", "VS1", "VVS2", "VVS1", "IF"]
-	
+	# Plot
 	sns.boxenplot(
 		diamonds, x="clarity", y="carat",
 		color="b", order=clarity_ranking, width_method="linear",
+	)
+	# Plot ecdf
+	sns.displot(
+	    mpg,
+	    x="displacement", col="origin", hue="model_year",
+	    kind="ecdf", aspect=.75, linewidth=2, palette=cmap,
 	)
 ```
 
