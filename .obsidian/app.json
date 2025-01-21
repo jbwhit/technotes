@@ -1,5 +1,11 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "snippets",
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

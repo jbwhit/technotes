@@ -63,7 +63,6 @@ def numerical_summary(df, column, group_by=None):
                     linewidth=2)
         ax2.legend()
 ```
-# Double variable
 ## 2 Categorical
 
 ```python
@@ -103,37 +102,22 @@ def numerical_correlation(df, col1, col2):
 
 ```python
 def pivot_analysis(df, cat_col, num_col):
-    """Create pivot table analysis for numerical and categorical variables"""
     # Create pivot table
     pivot = df.pivot_table(
         values=num_col,
         index=cat_col,
         aggfunc=['mean', 'count', 'std']
     )
-    print(f"\nPivot table analysis of {num_col} by {cat_col}:")
-    print(pivot)
-    
-    # Create box plot
-    plt.figure(figsize=(10, 6))
-    sns.boxplot(data=df, x=cat_col, y=num_col)
-    plt.xticks(rotation=45)
-    plt.title(f'Distribution of {num_col} by {cat_col}')
-    plt.tight_layout()
+    sns.boxenplot(data=df, x=cat_col, y=num_col)
 ```
 
 ```python
 def faceted_analysis(df, cat_col, num_col):
-    """Create faceted histogram for numerical variable by categorical variable"""
-    plt.figure(figsize=(12, 6))
+	# Plot
     g = sns.FacetGrid(df, col=cat_col, col_wrap=3)
     g.map(sns.histplot, num_col)
-    plt.suptitle(f'Distribution of {num_col} by {cat_col}', y=1.02)
-    plt.tight_layout()
 
-# Grouped violinplots with split violins
-	# Load the example tips dataset
-	tips = sns.load_dataset("tips")
-	
+	# Grouped violinplots with split violins
 	# Draw a nested violinplot and split the violins for easier comparison
 	sns.violinplot(data=tips, x="day", y="total_bill", hue="smoker",
 	               split=True, inner="quart", fill=False,
