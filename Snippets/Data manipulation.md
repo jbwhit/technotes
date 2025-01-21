@@ -265,3 +265,38 @@ df['period'] = df['date_col'].dt.to_period('M')  # Monthly period
 # Group by period for analysis
 df.groupby(df['date_col'].dt.to_period('M')).sum()
 ```
+
+### **Method Chaining for Readable and Efficient Code**
+
+```python
+# Example of method chaining
+result = (
+    df
+    .set_index('date_col')           # Set datetime column as index
+    .resample('M')                   # Resample to monthly frequency
+    .agg({'value_col': 'mean'})      # Aggregate with mean
+    .rename(columns={'value_col': 'monthly_mean'})  # Rename column
+    .reset_index()                   # Reset index to make 'date_col' a column again
+)
+
+# Adding new columns using assign
+df = (
+    df
+    .assign(
+        year=lambda x: x['date_col'].dt.year,
+        month=lambda x: x['date_col'].dt.month,
+        day=lambda x: x['date_col'].dt.day
+    )
+)
+
+# Filtering rows where 'value_col' is greater than 100
+filtered_df = df.query('value_col > 100')
+
+# Downcast numerical columns to optimize memory usage
+df['value_col'] = pd.to_numeric(df['value_col'], downcast='float')
+
+# Interpolate missing values
+df['value_col'] = df['value_col'].interpolate(method='time')
+```
+
+
