@@ -1,5 +1,4 @@
 
-
 # Single Variable
 ## Categorical
 
