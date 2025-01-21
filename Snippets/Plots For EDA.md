@@ -23,6 +23,16 @@ df.pipe(generalize_topn, n=20, other='NA')
 def numerical_summary(df, column):
     # Plot
     sns.histplot(data=df, x=column, kde=True)
+
+
+	# Plot
+	diamonds = sns.load_dataset("diamonds")
+	clarity_ranking = ["I1", "SI2", "SI1", "VS2", "VS1", "VVS2", "VVS1", "IF"]
+	
+	sns.boxenplot(
+		diamonds, x="clarity", y="carat",
+		color="b", order=clarity_ranking, width_method="linear",
+	)
 ```
 
 ```python
@@ -67,16 +77,20 @@ def numerical_correlation(df, col1, col2):
     corr = df[col1].corr(df[col2])
     # Plot
     sns.scatterplot(data=df, x=col1, y=col2)
-    # hexbin with marginals
-    import numpy as np
-	import seaborn as sns
-	sns.set_theme(style="ticks")
-	
-	rs = np.random.RandomState(11)
+    # Plot hexbin with marginals
 	x = rs.gamma(2, size=1000)
 	y = -.5 * x + rs.normal(size=1000)
-	
 	sns.jointplot(x=x, y=y, kind="hex", color="#4CB391")
+	# Plot correlation
+	d = pd.DataFrame(data=rs.normal(size=(100, 26)),
+	                 columns=list(ascii_letters[26:]))
+	# Compute the correlation matrix
+	corr = d.corr()
+	# Generate a mask for the upper triangle
+	mask = np.triu(np.ones_like(corr, dtype=bool))
+	cmap = sns.diverging_palette(230, 20, as_cmap=True)
+	sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
+	            square=True, linewidths=.5, cbar_kws={"shrink": .5})
 ```
 
 ## Categorical + Numerical
@@ -109,4 +123,13 @@ def faceted_analysis(df, cat_col, num_col):
     g.map(sns.histplot, num_col)
     plt.suptitle(f'Distribution of {num_col} by {cat_col}', y=1.02)
     plt.tight_layout()
+
+# Grouped violinplots with split violins
+	# Load the example tips dataset
+	tips = sns.load_dataset("tips")
+	
+	# Draw a nested violinplot and split the violins for easier comparison
+	sns.violinplot(data=tips, x="day", y="total_bill", hue="smoker",
+	               split=True, inner="quart", fill=False,
+	               palette={"Yes": "g", "No": ".35"})
 ```
