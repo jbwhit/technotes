@@ -1,5 +1,15 @@
 
 ```python
+def preorder_traversal(root):
+    if root is None:
+        return []
+    return ([root.val] 
+        + preorder_traversal(root.left) 
+        + preorder_traversal(root.right))
+```
+
+
+```python
 def inorder_traversal(root):
     if root is None:
         return []
